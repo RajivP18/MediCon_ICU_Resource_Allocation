@@ -1,0 +1,20 @@
+hospital_id,hospital_name,lat,lon,total_beds,available_beds,icu_beds,available_icu_beds,ventilators,available_ventilators,specializations,doctors_count,nurses_count,oxygen_supply
+H000,LifeLine Medical 0,28.4872,77.1242,249,158,43,38,27,15,"Orthopedics,Pulmonology,Gastroenterology,Nephrology",66,52,139
+H001,Sunrise Health 1,28.4095,77.2487,297,168,48,10,23,16,"Nephrology,Cardiology,Gastroenterology,Neurology",76,170,116
+H002,Unity Health 2,28.6662,77.2744,245,20,10,4,28,8,"Gastroenterology,Neurology",76,162,303
+H003,Providence Med 3,28.6657,77.0824,316,250,38,19,12,11,"Gastroenterology,Pulmonology,Orthopedics,Neurology",97,131,107
+H004,Apollo Care 4,28.4652,77.0188,273,189,30,3,11,8,"Gastroenterology,Cardiology,Pulmonology",60,180,434
+H005,Nova ICU Center 5,28.7935,77.2507,448,41,28,1,28,17,"Gastroenterology,Orthopedics,Neurology",41,68,488
+H006,Medanta Hub 6,28.4299,77.2396,206,164,47,8,10,4,"Nephrology,Gastroenterology",42,174,224
+H007,Sunrise Health 7,28.5931,77.2642,458,408,24,9,30,8,"Pulmonology,Cardiology",49,117,381
+H008,Apollo Care 8,28.6158,77.0276,249,205,37,36,14,6,"Orthopedics,Gastroenterology,Cardiology,Nephrology",83,161,83
+H009,City Central 9,28.4557,77.3439,253,93,50,25,18,0,"Pulmonology,Cardiology,Nephrology",81,165,242
+H010,Apollo Care 10,28.5497,77.103,367,152,27,0,17,6,"Neurology,Orthopedics,Nephrology,Gastroenterology",33,111,157
+H011,LifeLine Medical 11,28.447,77.2795,309,296,43,8,20,11,"Nephrology,Pulmonology,Orthopedics,Gastroenterology",53,112,456
+H012,Unity Health 12,28.6081,77.2918,469,30,11,5,26,11,"Orthopedics,Cardiology",96,147,163
+H013,Nova ICU Center 13,28.6706,77.1702,160,49,42,15,10,9,"Nephrology,Gastroenterology,Cardiology",85,173,485
+H014,City Central 14,28.4323,77.3079,392,385,43,4,21,1,"Nephrology,Orthopedics,Cardiology",59,138,101
+H015,City Central 15,28.4582,77.1653,418,387,30,23,16,16,"Orthopedics,Pulmonology",100,135,357
+H016,Guardian Hospital 16,28.5198,77.2344,236,185,49,14,16,10,"Gastroenterology,Cardiology,Orthopedics",78,132,120
+H017,Nova ICU Center 17,28.4626,77.2163,322,120,33,3,29,27,"Cardiology,Gastroenterology",58,142,272
+H018,Fortis Clinic 18,28.4153,77.0307,109,58,42,38,26,21,"Nephrology,Orthopedics,Pulmonology,Cardiology",77,63,145
