@@ -106,6 +106,5 @@ medicon-icu-allocation/
 
 ---
 
-## Author
-Rajiv Pillalamarri  
-BTech Computer Science and Engineering
+## Project By
+TEAM MEDICON
